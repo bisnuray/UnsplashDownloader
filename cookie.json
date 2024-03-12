@@ -1,0 +1,17 @@
+#Example JSON Replace with actual premium Unsplash Plus Account JSON 
+
+[
+ {
+        "domain": ".unsplash.com",
+        "expirationDate": 1744489008.55108,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "GA1.1.1169002766.1709922928"
+    }
+]
